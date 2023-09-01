@@ -1,9 +1,9 @@
 import smtplib#eposta sağlayıcısına ulaşmak için kullanılıyor örnek:gmail,hotmail biz gmail kullanıcaz
 import ssl#bu ssl bizim bilgilerimizi yani eposta ve şifremizi encode ediyor
 
-
+discord="dao026"
 email = "<mail adresi>"#burda mailmizi yazıyoruz
-password = "<uygulama şifresi>"#https://myaccount.google.com/ giriyoruz ordan güvenlik kısmına 2 adımlı doğrulamayı bulunuz en altta Uygulama şifreleri kısmı olması lazım oraya girin ve şifre oluşturun bu değişkene atıyınız
+password = "<uygulama şifresi>"#readme kısmını okuyunuz
 
 alici=email#kime gönderdiğimiz
 
